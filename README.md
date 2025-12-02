@@ -14,5 +14,7 @@
 </a>
 </p><br><br>
 
+<p>&nbsp;<img align="center" src="https://raw.githubusercontent.com/HassanNazar72/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="HassanNazar72" /></p>
+
 
 
